@@ -10,35 +10,35 @@ Operators in C++ are special symbols that perform specific operations on one or 
 
 1.Arithmetic Operators: Perform arithmetic operations.
 
-+: Addition
--: Subtraction
-*: Multiplication
-/: Division
-%: Modulus
+I. Addition +
+II. Subtraction -
+III. Multiplication *
+IV. Division /
+V. Modulus %
 
 
 2.Relational Operators: Compare values and return boolean results. 
 
-==: Equal to
-!=: Not equal to
-<: Less than
->: Greater than
-<=: Less than or equal to
->=: Greater than or equal to
+I. Equal to ==
+II. Not equal to != 
+III. Less than <
+IV. Greater than >
+V. Less than or equal to <=
+VI. Greater than or equal to >=
 
 
 3.Logical Operators: Combine boolean expressions.   
 
-&&: Logical AND
-||: Logical OR
-!: Logical NOT
+I. Logical AND &&
+II. Logical OR ||
+III. Logical NOT !
 
 
 4.Assignment Operators: Assign values to variables.
 
-=: Simple assignment
-+=: Add and assign
--=: Subtract and assign
-*=: Multiply and assign
-/=: Divide and assign   
-%=: Modulus and assign
+I. Simple assignment =
+II. Add and assign +=
+III. Subtract and assign -=
+IV. Multiply and assign *=
+V. Divide and assign /=  
+VI. Modulus and assign %/
