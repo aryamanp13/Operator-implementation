@@ -14,7 +14,7 @@ Operators in C++ are special symbols that perform specific operations on one or 
 -: Subtraction
 *: Multiplication
 /: Division
-%: Modulus (remainder)
+%: Modulus
 
 
 2.Relational Operators: Compare values and return boolean results. 
